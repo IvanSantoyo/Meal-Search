@@ -12,10 +12,10 @@
 body{
     font-weight: 300;
     font-size: 1.05rem;
-    line-height: 1.6;
+    line-height: 1.7;
     font-family: 'Poppins', sans-serif;
     color: #fff;
-    background-color: maroon;
+    background-color: purple;
 }
 
 /*  */
@@ -43,7 +43,7 @@ body{
     padding: 2rem;
     background: #fff;
     text-align: center;
-    background-color: maroon;
+    background-color: purple;
 }
 .meal-search{
     margin: 2rem 0;
